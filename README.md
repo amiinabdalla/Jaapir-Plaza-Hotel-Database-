@@ -16,3 +16,8 @@
 2. **Rooms:** Tracks room configurations, room types, and price rates per night.
 3. **Bookings:** Connects guests with rooms while logging exact check-in and check-out durations.
 4. **Payments:** Logs transactional details including amount paid and transaction mediums (EVC Plus, Sahal, Zaad, Cash).
+
+## 🚀 How to Run & Query
+1. Download the `hotel_management.sql` file from this repository.
+2. Open Microsoft SQL Server Management Studio (SSMS) and connect to your server.
+3. Open the script file and press **Execute (F5)** to build the database, tables, and relationships.
